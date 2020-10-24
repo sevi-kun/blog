@@ -1,0 +1,6 @@
+[en]
+  title = "Sevi's Blog Page"
+  languageName = "English"
+  weight = 1
+  languagedir = "ltr"
+  contentdir = "content/en"
