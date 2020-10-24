@@ -24,7 +24,7 @@ enableAppbarSearchIcon = true
 enableAppbarLangIcon = false
 
 # header
-homeHeaderType = "typewriter" # text, img, slide, typewriter
+homeHeaderType = "text" # text, img, slide, typewriter
 hideHomeHeaderWhenMobile = false
 
 # menu
@@ -47,23 +47,23 @@ talksGroupByDate = "2006"
 pubPaginate = 20
 
 # whoami
-myname = "sevi-kun"
+myname = "Béla Richartz"
 email = "bela.richartz@thurweb.ch"
 whoami = "technology enthusiast"
 bioImageUrl = ""
 useGravatar = false
 location = "Switzerland"
 organization = ""
-link = "https://sevi-the-weeb.com"
+link = "https://www.sevi-the-weeb.com"
 
 # sidebar
 enableBio = true
-enableBioImage = false
+enableBioImage = true
 enableSidebar = true
-enableSidebarTags = true
+enableSidebarTags = false
 enableSidebarSeries = true
 enableSidebarCategories = true
-enableHomeSidebarTitles = true
+enableHomeSidebarTitles = false
 enableListSidebarTitles = true
 enableToc = true
 hideToc = false
@@ -91,12 +91,12 @@ busuanziSitePV = true
 busuanziPagePV = true
 
 # rss
-updatePeriod = "" # Possible values: 'hourly', 'daily', 'weekly', 'monthly', or 'yearly'.
+updatePeriod = "weekly" # Possible values: 'hourly', 'daily', 'weekly', 'monthly', or 'yearly'.
 updateFrequency = ""
 fullContents = false
 
 # comment
-enableComment = false
+enableComment = true
 
 [utterances]       # https://utteranc.es/
   owner = "43034898"              # Your GitHub ID
@@ -111,14 +111,14 @@ enableComment = false
   stack-overflow = ""
   instagram = ""
   google-plus = ""
-  youtube = ""
+  youtube = "https://www.youtube.com/channel/UCCdKTyLa4s_am7rO0Ly-PJA"
   medium = ""
   tumblr = ""
   linkedin = ""
   pinterest = ""
   stack-exchange = ""
   telegram = ""
-  steam = ""
+  steam = "https://steamcommunity.com/id/sevi-kun"
   weibo = ""
   douban = ""
   csdn = ""

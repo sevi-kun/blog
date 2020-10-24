@@ -25,9 +25,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - Welcome to my blog
+      - Sevi's Blog
     subtitle:
-      - I'm a 
+      - computer and technology blog
     titleColor: 
     titleShadow: true
     titleFontSize: 44
