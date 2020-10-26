@@ -51,7 +51,7 @@ myname = "Béla Richartz"
 email = "bela.richartz@thurweb.ch"
 whoami = "technology enthusiast"
 bioImageUrl = ""
-useGravatar = false
+useGravatar = false # github gravatar lol https://avatars3.githubusercontent.com/u/43034898?v=4
 location = "Switzerland"
 organization = ""
 link = "https://www.sevi-the-weeb.com"
@@ -99,8 +99,8 @@ fullContents = false
 enableComment = true
 
 [utterances]       # https://utteranc.es/
-  owner = "43034898"              # Your GitHub ID
-  repo = "sevi-kun/sevi-kun.github.io"               # The repo to store comments
+  owner = "sevi-kun"              # Your GitHub ID
+  repo = "sevi-kun.github.io"               # The repo to store comments
 
 [socialOptions]
   email = "mailto:bela.richartz@thurweb.ch"
