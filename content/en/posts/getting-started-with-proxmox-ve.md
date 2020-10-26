@@ -3,7 +3,7 @@ title: "Getting started with Proxmox VE"
 author: "Béla Richartz"
 date: 2020-10-24T11:35:07+02:00
 description: "In this post I wrote how I configure Proxmox. It should be a help to anyone who want's to set up a homelab with proxmox."
-draft: false
+draft: true
 image: images/feature4/proxmox-logo.png
 authorEmoji: 🤖
 tags:
