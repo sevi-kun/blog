@@ -1,9 +1,9 @@
 ---
-title: "Proxmox Gpu Passthrough"
+title: "Proxmox GPU Passthrough"
 author: "Béla Richartz"
 date: 2020-10-24T11:35:07+02:00
 description: "In this post I will describe how I managed to GPU Passthroug in Proxmox VE 6.2."
-draft: true
+draft: false
 image: images/feature4/proxmox-logo.png
 authorEmoji: 🤖
 tags:
@@ -15,6 +15,8 @@ tags:
 categories:
 - linux
 - virtualization
+series:
+- Proxmox VE
 enableToc: true
 enableTocContent: true
 ---

@@ -1,5 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
+type: archive
+description:
+titleWrap: wrap # wrap, noWrap
 ---

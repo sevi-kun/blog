@@ -100,7 +100,7 @@ enableComment = true
 
 [utterances]       # https://utteranc.es/
   owner = "43034898"              # Your GitHub ID
-  repo = "blog-utterances"               # The repo to store comments
+  repo = "sevi-kun/sevi-kun.github.io"               # The repo to store comments
 
 [socialOptions]
   email = "mailto:bela.richartz@thurweb.ch"
@@ -109,7 +109,7 @@ enableComment = true
   twitter = ""
   github = "https://github.com/sevi-kun"
   stack-overflow = ""
-  instagram = ""
+  instagram = "_sevi_kun"
   google-plus = ""
   youtube = "https://www.youtube.com/channel/UCCdKTyLa4s_am7rO0Ly-PJA"
   medium = ""
