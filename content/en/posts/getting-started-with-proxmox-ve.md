@@ -19,3 +19,4 @@ enableTocContent: true
 ---
 These are some things, you may need to know:
 - If you are going to passthroug a PCI device, you must use UEFI boot. I also deactivated CSM, so I don't have any trouble with it. A drawbag of this whole thing is that you  this post I will describe how I managed to GPU Passthroug in Proxmox VE 6.2. 
+

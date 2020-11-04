@@ -4,3 +4,10 @@
   weight = 1
   languagedir = "ltr"
   contentdir = "content/en"
+
+[de]
+  title = "Sevi's Blog Page"
+  languageName = "Deutsch"
+  weight = 1
+  languagedir = "ltr"
+  contentdir = "content/de"

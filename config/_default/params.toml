@@ -1,4 +1,4 @@
-logoText = " Sevi the weeb"
+logoText = " Sevi's Tech Blog"
 logoType = "short" # long, short
 description = "The Zzo theme for Hugo example site."
 custom_css = []
@@ -54,22 +54,22 @@ bioImageUrl = ""
 useGravatar = false # github gravatar lol https://avatars3.githubusercontent.com/u/43034898?v=4
 location = "Switzerland"
 organization = ""
-link = "https://www.sevi-the-weeb.com"
+link = "https://www.sevi-kun.ch"
 
 # sidebar
 enableBio = true
 enableBioImage = true
 enableSidebar = true
-enableSidebarTags = false
+enableSidebarTags = true
 enableSidebarSeries = true
 enableSidebarCategories = true
 enableHomeSidebarTitles = false
 enableListSidebarTitles = true
 enableToc = true
 hideToc = false
-tocFolding = true
-tocPosition = "inner" # inner, outer
-enableTocSwitch = true
+tocFolding = false
+tocPosition = "outer" # inner, outer
+enableTocSwitch = false
 itemsPerCategory = 5
 sidebarPosition = "right"
 tocLevels = ["h2", "h3", "h4"]
