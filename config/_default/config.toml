@@ -2,6 +2,8 @@ baseURL = "https://www.sevi-kun.ch"
 title = "Sevi's Blog Page"
 theme = "zzo"
 
+ignoreErrors = ["error-remote-getjson"]
+
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 hasCJKLanguage = true
