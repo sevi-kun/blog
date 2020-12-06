@@ -1,6 +1,5 @@
 ---
 title: "My Linux Setup"
-date: 2020-10-29T14:15:25+01:00
 description: "In this post I will show you what my linux set up looks like and what programms I use."
 draft: true
 hideToc: false

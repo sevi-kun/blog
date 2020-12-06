@@ -27,7 +27,7 @@ Before we begin I would like to thank the Youtuber [Allen Sampsell](https://www.
 
 ## Proxmox VE is awesome!
 
-I've known [Proxmox VE](https://proxmox.com/en/proxmox-ve) now for some time, but I just recently started to use it extensivly. It is based on debian. Virtual machines are supportet through KVM and you can run containers through LXC. tI's all linux and all beautyful. Yet, I get why some people don't like proxmox. Although the [documentation](https://pve.proxmox.com/pve-docs/) is awesome, you have to like the commandline and linux itself. You can't do anything in the gui. I hope, as soon as you overcome this, you will start to like proxmox as well.
+I've known [Proxmox VE](https://proxmox.com/en/proxmox-ve) now for some time, but I just recently started to use it extensivly. It is based on debian. Virtual machines are supportet through KVM and you can run containers through LXC. It's all linux and all beautiful. Yet, I get why some people don't like proxmox. Although the [documentation](https://pve.proxmox.com/pve-docs/) is awesome, you have to like the commandline and linux itself. You can't do anything in the gui. I hope, as soon as you overcome this, you will start to like proxmox as well.
 
 ### Then, why this post?
 
