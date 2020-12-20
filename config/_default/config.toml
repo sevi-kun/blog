@@ -3,6 +3,7 @@ title = "Sevi's Blog Page"
 theme = "zzo"
 
 ignoreErrors = ["error-remote-getjson"]
+timeout = 30000
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
@@ -12,7 +13,6 @@ summaryLength = 70
 buildFuture = true
 
 copyright = "&copy;{year}, All Rights Reserved"
-timeout = 10000
 enableEmoji = true
 paginate = 13
 rssLimit = 100
